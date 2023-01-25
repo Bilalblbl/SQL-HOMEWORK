@@ -1,1 +1,1 @@
-# SQL WORK
+# Patika Üzerinden SQL Çalışmaları
